@@ -1,0 +1,5 @@
+format: jb-book
+root: chap01
+chapters:
+- file: chap02
+- file: chap03

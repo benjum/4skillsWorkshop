@@ -1,0 +1,8 @@
+# Book settings
+title: Jupyter Book for OARC Skills Workshop
+author: Dr. Benjamin John Winjum, Ph.D. 
+copyright: '2021'
+
+# Launch button settings
+repository:
+  url: https://github.com/benjum/4skillsWorkshop
