@@ -1,8 +1,15 @@
-# Chapter 2
-This is chapter 2. This is a demo chapter.
+# Chapter 2: Thinking about Requirements
 
-## Section 1
-This is Section 1 of Chapter 2.
+How should I determine what to use?
 
-## Section 2
-This is Section 2 of Chapter 2.
+## Requirements
+
+CPU/RAM
+
+Programming language needs
+
+level of interaction between students/audience/yourself
+
+## Environments
+
+setting up pre-made containerized environments to simplify initiation
