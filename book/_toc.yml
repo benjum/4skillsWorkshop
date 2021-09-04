@@ -1,5 +1,6 @@
 format: jb-book
-root: chap01
+root: landing
 chapters:
+- file: chap01
 - file: chap02
 - file: chap03

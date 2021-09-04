@@ -1,14 +1,42 @@
-# Chapter 1
-This is chapter 1.
+# Chapter 1: Notebooks & Platforms
 
-## Section 1
-This is Section 1 of Chapter 1.
+What exactly is a notebook.
 
-## Section 2
-This is Section 2 of Chapter 1.
+How can we present interactive material that invites the audience to get their feet wet.
 
-## Section 3
-This is Section 3 of Chapter 1.
+## Jupyter
 
-## Section 4
-This is Section 4 of Chapter 1.
+The interactive notebook I'll be focusing on.
+
+## Google Colab
+
+intro to platforms for executing with freely available resources
+
+## DeepNote
+
+a bit of containerization, plus colaborative editing!
+
+## Gradient
+
+another nod to platform
+
+## Observable
+
+interactive, used with javascript
+
+## Reactor
+
+R
+
+## Pluto
+
+Julia
+
+## Vizier
+
+Python, SQL, and Spark
+
+## Clouds
+
+GCP, AWS, and Microsoft offerings
+

@@ -1,11 +1,11 @@
 # Chapter 3
 
-This is a Jupyter Notebook.  This notebook contains sample Python codes.
+Jumping into Jupyter Notebooks.  First, with Python.
 
 print("Hello world!")
 
-L = [1, 2, 3]
+x = [1, 4, 9, 16, 25]
 sum = 0
-for num in L:
-    sum = sum + num
+for i in x:
+    sum += i
 print('Sum =', sum)
