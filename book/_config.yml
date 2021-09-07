@@ -6,3 +6,13 @@ copyright: '2021'
 # Launch button settings
 repository:
   url: https://github.com/benjum/4skillsWorkshop
+  path_to_book: book
+  branch: main
+
+launch_buttons:
+  notebook_interface: "jupyterlab"
+  binderhub_url: "https://mybinder.org/v2/gh/benjum/4skillsWorkshop/main?urlpath=book"
+  jupyterhub_url: "https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fbenjum%2F4skillsWorkshop&urlpath=tree%2F4skillsWorkshop%2Fbook&branch=main"
+  colab_url: "https://colab.research.google.com"
+  thebe: true
+  
