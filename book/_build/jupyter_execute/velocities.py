@@ -16,7 +16,7 @@ Consider the ridiculously simple example of a spring.
 (Reminder: Hit Shift+Enter to run a cell, or select the cell and click on the "Run" button in the top menu bar)
 
 from IPython.display import HTML
-HTML('<img src="Harmonic1.gif">')  # retrieved from http://mathforum.org/mathimages/imgUpload/SolveHarmonic.gif
+HTML('<img src="./Harmonic1.gif">')  # retrieved from http://mathforum.org/mathimages/imgUpload/SolveHarmonic.gif
 
 The equations are:  
 
@@ -41,7 +41,7 @@ $$x = A \cos{\omega_0 t} + B \sin{\omega_0 t}$$
 where A and B are determined from the initial conditions for $x$ and $v$, and $\omega_0$ is the "natural" frequency.
 
 from IPython.display import HTML
-HTML('<img src="Harmonic2.gif">')  # retrieved from https://www.maplesoft.com/view.aspx?SI=3926/forced_oscillations65.gif
+HTML('<img src="./Harmonic2.gif">')  # retrieved from https://www.maplesoft.com/view.aspx?SI=3926/forced_oscillations65.gif
 
 If all we wanted was the natural frequency for a (set of coupled) equation(s), we could substitute $x = \Re[\bar{x}e^{i\omega t}]$ into the equation(s).
 
@@ -85,7 +85,7 @@ $$\bar{x} = \frac{F_0}{-\omega^2 + \omega_0^2}$$
 This is called resonance:  Drive something at its resonance (at its natural frequency) and it gets very large.
 
 from IPython.display import HTML
-HTML('<img src="forcedoscillator.gif">')  # retrieved from http://www.acs.psu.edu/drussell/Demos/SHO/forced.gif
+HTML('<img src="./forcedoscillator.gif">')  # retrieved from http://www.acs.psu.edu/drussell/Demos/SHO/forced.gif
 
 ## Phase velocity
 
