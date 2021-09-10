@@ -2,3 +2,4 @@ jupyter-book
 matplotlib
 ipywidgets
 numpy
+RISE
