@@ -1,7 +1,6 @@
 format: jb-book
 root: landing
 chapters:
-- file: chap01
-- file: chap02
-- file: chap03
+- file: intro
 - file: velocities
+- file: nouns-starting-with-ben
