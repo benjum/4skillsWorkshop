@@ -248,7 +248,8 @@
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># get words that start with ben</span>
-<span class="n">benwords</span> <span class="o">=</span> <span class="p">[</span><span class="n">i</span> <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="n">words</span><span class="o">.</span><span class="n">words</span><span class="p">()</span> <span class="k">if</span> <span class="n">i</span><span class="p">[</span><span class="mi">0</span><span class="p">:</span><span class="mi">3</span><span class="p">]</span><span class="o">==</span><span class="s1">&#39;ben&#39;</span><span class="p">]</span>
+<span class="n">myname</span> <span class="o">=</span> <span class="s1">&#39;ben&#39;</span>
+<span class="n">benwords</span> <span class="o">=</span> <span class="p">[</span><span class="n">i</span> <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="n">words</span><span class="o">.</span><span class="n">words</span><span class="p">()</span> <span class="k">if</span> <span class="n">i</span><span class="p">[</span><span class="mi">0</span><span class="p">:</span><span class="nb">len</span><span class="p">(</span><span class="n">myname</span><span class="p">)]</span><span class="o">==</span><span class="n">myname</span><span class="p">]</span>
 <span class="c1"># function to test if something is a noun</span>
 <span class="n">is_noun</span> <span class="o">=</span> <span class="k">lambda</span> <span class="n">pos</span><span class="p">:</span> <span class="n">pos</span><span class="p">[:</span><span class="mi">2</span><span class="p">]</span> <span class="o">==</span> <span class="s1">&#39;NN&#39;</span>
 <span class="c1"># do the nlp stuff</span>
@@ -277,7 +278,7 @@
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>benzenoid :   similar to benzene in structure or linkage
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>benthos :   a region including the bottom of the sea and the littoral zones
 </pre></div>
 </div>
 </div>
