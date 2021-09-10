@@ -1,6 +1,7 @@
 format: jb-book
 root: landing
 chapters:
+- file: 4skillsWorkshopSlides
 - file: intro
 - file: velocities
 - file: nouns-starting-with-ben
